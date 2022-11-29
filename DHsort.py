@@ -1,9 +1,3 @@
-####################################################################
-# DHSort: A CNN model to classify haploid maize seeds
-# Allogamous Plant Breeding Lab
-# Author: Felipe Sabadin (felipe.sabadin@usp.br)
-#####################################################################
-
 # packages
 import numpy as np
 import pandas as pd
